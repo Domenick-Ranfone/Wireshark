@@ -10,3 +10,7 @@ Azure Network Security Groups and Wireshark
  - Wireshark
  - Windows PowerShell
 
+**Operatings Systems Used**
+ - Windows 10
+ - Linux (Ubuntu)
+
