@@ -5,7 +5,11 @@ Azure Network Security Groups and Wireshark
 
 **Environments and Technologies Used**
  -Microsoft Azure (Resource Groups/Virtual Machines)
+ 
  -Remote Desktop Protocol (Port 3389)
+ 
  -Network Security Groups
+ 
  -Wireshark
+ 
  -Windows PowerShell
