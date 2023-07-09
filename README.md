@@ -24,19 +24,10 @@
 
 ![CC-Lab2-Network Security Group](https://github.com/Domenick-Ranfone/Wireshark/assets/138722554/a9faa3fc-89b9-4ae3-8fba-52b630912f7c)
  - Adjusted NSG's on Ubuntu VM to disable/enable incoming (inbound) ICMP Traffic from Windows VM
-
-
-
 ![CC-Lab2-Observing ICMP Traffic](https://github.com/Domenick-Ranfone/Wireshark/assets/138722554/90d9dadb-bfda-4fa5-bf8e-d4803ce9be40)
  - Observed the ICMP Traffic in Wireshark and the command line Ping activity in PowerShell
-
-
-
 ![CC-Lab2-Observing DNS Traffic](https://github.com/Domenick-Ranfone/Wireshark/assets/138722554/2f4387d6-8e7b-4f0c-83b1-1771fafd3f9c)
  - Utilized nslookup to find IP addresses of google.com and disney.com
  - Observed the DNS Traffic being shown in Wireshark and PowerShell
-
-
-
 ![CC-Lab2-Observing RDP Traffic](https://github.com/Domenick-Ranfone/Wireshark/assets/138722554/68636b98-535f-48de-ade8-712fe9b2e761)
  - Observed the immediate non-stop spam of traffic because the Remote Desktop Protocol is constantly showing a live stream from one computer to another, therefore traffic is always being transmitted
